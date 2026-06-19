@@ -1,4 +1,5 @@
 # CPP-Code-Dataset
+[![DOI](https://zenodo.org/badge/1274457948.svg)](https://doi.org/10.5281/zenodo.20763753)
 A comprehensive C++ evaluation dataset comprising 200 multi-level samples (from basic structures to industrial applications) for benchmarking LLM code generation.
 ## Dataset Overview
 **C++-Eval** is a comprehensive C++ evaluation dataset comprising 200 multi-level samples designed to assess the code generation capabilities of Large Language Models (LLMs) in high-performance, industrial scenarios. To address the limitations of existing benchmarks, this dataset covers six major engineering scenarios: basic data structures, classic algorithms, numerical computation, machine learning preprocessing, image and point cloud processing, and advanced object-oriented features. Furthermore, each task is accompanied by a complete set of function declarations and approximately 20 high-coverage test cases covering boundary conditions and exceptional scenarios to ensure rigorous evaluation. 
